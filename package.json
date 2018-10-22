@@ -23,7 +23,7 @@
     "pretest:client": "cd client && npm run lint",
     "pretest:server": "cd server && ./node_modules/.bin/tslint --project ."
   },
-  "author": "Sanjeev Ghimire",
+  "author": "Michael Gladstein",
   "license": "Apache-2.0",
   "dependencies": {
     "concurrently": "^3.6.1"
